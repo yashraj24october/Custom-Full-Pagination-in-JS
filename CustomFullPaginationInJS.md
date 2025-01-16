@@ -1,4 +1,5 @@
-### Just you need to add selector of a list wrapper and list-child-item according to your html structure.
+### Just you need to add selector of a list wrapper and list-child-item according to your html structure. 
+###  'active' class is added to the current active pager. You can style your pagination according to your requirement
 
 ```javascript
 let listWrapperSelector = '.list-wrapper';
